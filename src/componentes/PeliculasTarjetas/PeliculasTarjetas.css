@@ -1,0 +1,17 @@
+.tarjeta{
+    width: 250px;
+    height: 500px;
+    margin-top: 15px;
+    border: 10px solid;
+    text-align: center;
+    padding: 1.2rem;
+    border-radius: 1.2rem;
+}
+
+.tarjeta img{
+    width: 250px;
+    height: 250px;
+    
+}
+
+
